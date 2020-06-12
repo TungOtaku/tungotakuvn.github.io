@@ -23,7 +23,7 @@
 	list-style:none;
 	float: left;
 	font-size: 22px;
-	margin-left: 120px;
+	margin-left: 150px;
 	margin-top: 10px;
 	border-bottom: 10px;
 	color: aliceblue;
@@ -51,7 +51,7 @@
 	width: 200px;
 	height: 200px;
 	margin-top:100px;
-	margin-left:130px;
+	margin-left:150px;
 	float: left;
 }
 .menu2 a{
@@ -62,13 +62,13 @@
 }
 .menu2 p{
 	text-align: center;
-	margin-left: 150px;
+	margin-left: 150px
 }
 .menu3 img{
 	width: 200px;
 	height: 200px;
 	margin-top:80px;
-	margin-left: 130px;
+	margin-left: 150px;
 	float: left;
 }
 .menu3 a{
@@ -85,7 +85,7 @@
 	width: 200px;
 	height: 200px;
 	margin-top:80px;
-	margin-left: 130px;
+	margin-left: 150px;
 	float: left;
 }
 .menu4 a{
@@ -101,7 +101,7 @@
 
 .menu5{
 	margin-top: 0px;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	clear: both;
 	margin-left: 900px;
 	float: left;
@@ -139,16 +139,12 @@
 	margin-left: 200px auto;
 }
 .anime{
-	margin-top: 400px;
-	margin-left: 300px;
+	height:auto;
+	margin-top: 450px;
+	margin-left: 290px;
 	color: #FFFFFF;
-	float:auto;
 }
 .anime1 img{
-	width: 250px;
-	height: 300px;
-}
-.anime3 img{
 	width: 250px;
 	height: 300px;
 }
