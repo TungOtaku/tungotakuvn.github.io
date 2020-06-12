@@ -1,0 +1,154 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 1920px;
+	height: 1700px;
+	margin-top:0 auto;
+	margin-bottom: 0px;
+	background:#4D4A4A;
+}
+.logo img{
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+.header{
+	width: 1920px;
+	height: 50px;
+	background: #323030;
+}
+.header ul li{
+	list-style:none;
+	float: left;
+	font-size: 22px;
+	margin-left: 120px;
+	margin-top: 10px;
+	border-bottom: 10px;
+	color: aliceblue;
+}
+.header a{
+	color: #FFFFFF;
+}
+.menu img{
+	width: 250px;
+	height: 300px;
+	margin-left: 110px;
+	float: left;
+}
+.menu a{
+	color: #FFFFFF;
+}
+.box{
+	float: left;
+}
+.menu p{
+	margin-left: 100px;
+	text-align: center;
+}
+.menu2 img{
+	width: 200px;
+	height: 200px;
+	margin-top:100px;
+	margin-left:130px;
+	float: left;
+}
+.menu2 a{
+	color: #FFFFFF;
+}
+.box1{
+	float: left;
+}
+.menu2 p{
+	text-align: center;
+	margin-left: 150px;
+}
+.menu3 img{
+	width: 200px;
+	height: 200px;
+	margin-top:80px;
+	margin-left: 130px;
+	float: left;
+}
+.menu3 a{
+	color: #FFFFFF;
+}
+.box2{
+	float: left;
+}
+.menu3 p{
+	margin-left: 150px;
+	text-align: center;
+}
+.menu4 img{
+	width: 200px;
+	height: 200px;
+	margin-top:80px;
+	margin-left: 130px;
+	float: left;
+}
+.menu4 a{
+	color: #FFFFFF;
+}
+.box3{
+	float: left;
+}
+.menu4 p{
+	margin-left: 150px;
+	text-align: center;
+}
+
+.menu5{
+	margin-top: 0px;
+	margin-bottom: 30px;
+	clear: both;
+	margin-left: 900px;
+	float: left;
+}
+.anime2{
+	float: left;
+}
+.menu5 p{
+	margin-left: 10px;
+	text-align: center;
+}
+.ax{
+	width: 170px;
+	height: 1700px;
+	background-color:#FFFFFF;
+	float: left;
+}
+.ax2{
+	width: 170px;
+	height: 1700px;
+	background-color:#FFFFFF;
+	float: right;
+}
+.anime{
+	margin-top: 200px;
+	margin:0 auto;
+}
+.container-1{
+  width: 300px;
+	margin-top: 50px;
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+	margin:20px auto;
+	margin-left: 200px auto;
+}
+.anime{
+	margin-top: 400px;
+	margin-left: 300px;
+	color: #FFFFFF;
+	float:auto;
+}
+.anime1 img{
+	width: 250px;
+	height: 300px;
+}
+.anime3 img{
+	width: 250px;
+	height: 300px;
+}
